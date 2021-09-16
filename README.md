@@ -1,6 +1,9 @@
-<p align="center">
+<div align="center">
     <img src="https://roman-allenstein.de/logo.png" alt="Image" width="200" height="200" /><br />
-</p>
+    
+![](https://img.shields.io/stackexchange/stackoverflow/r/2139671?style=for-the-badge)
+    
+</div>
 
 ℹ️ **I am a PHP programmer and team manager at the german e-commerce company [Portaltech Reply](https://portaltechreplyde.recruitee.com/).**
 
