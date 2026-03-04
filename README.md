@@ -8,6 +8,6 @@
 
 👀 *If you searching for someone who builds your Shopware interfaces to SAP, Microsoft, Lexware or other tools or even a whole e-commerce platform - just contact me!*
 
-👨🏼‍💻 Go on and check also the profile of my brother [Ruben](https://github.com/rbnbhv).
+👨🏼‍💻 Go on and check also the profile of my brother [Ruben](https://github.com/ruben-allenstein/ruben-allenstein).
 
 🔗 Still there? Don't click on the link. [roman-allenstein.de](https://roman-allenstein.de)
