@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://roman-allenstein.de/logo.png" alt="Image" width="250" height="250" /><br />
+    <img src="https://roman-allenstein.de/assets/logo.png" alt="Image" width="250" height="250" /><br />
 </div>
 
 ℹ️ **I made my hobby my job and work as a Business Unit Manager for E-Commerce at [Vanilla Reply](https://vanilla.reply.com/).**
